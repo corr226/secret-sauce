@@ -1,5 +1,5 @@
 # secret-sauce
-contains the <some-conflict> secret sauce
+contains the change without markup <some-conflict> secret sauce
 
 There are strange things done in the winter sun by the men who moil for gold.
 The arctic trails have their secret tales that would make your blood run cold.
